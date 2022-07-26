@@ -1,21 +1,21 @@
 # General description of project
-> E.g. Building an inventory tracking system for my CCA
+> Making a poker game.
 
 #Goals of project
-> E.g. Streamline tracking and cataloguing of inventory to facilitate member loans, repairs & Semester stock-taking needs
+> To stop students from playing real poker and instead play this.
 
 # Listing of features
-> List all the features in the fully functional app - you may choose to work on a subset of this listing to produce a MVP (minimum viable product) given constraint of time
+> Shuffling and dealing of the deck of cards as well as giving options to players on their moves and telling them who won.
 
 # External Scanning
-> Are there similar apps / codebase that you found online that is similar to your project?  Provide link(s) to these projects and outline how will your project be different?
+> Umm there might be but I have no idea to see how they did it so yeah.
 
 # Listing of Key Use Cases
-> Yearly, CCA senior will do stock-take and will need to generate a report on the existing stock.
-> Start of school break, members will loan equipment and will need to return when school break ends.
+> Providing an alternative to normal poker
+> Having fun with friends.
 
 # Skills that my project requires me to pick up
-> List out the skills that you are not familiar with that is necessary due to the project scope.
+> Finding bugs and learning how to OOP.
 
 # [Development Log](/devlog.md)
 > You will be updating this section regularly
