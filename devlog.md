@@ -11,6 +11,10 @@
 
 ## Week 5 (26 Jul - 1 Aug)
 
+- I wanted to start by creating a deck of cardsd and a way of getting cards from it. This has not been randomised yet and will be by next week.
+- I faced some problems in getting a card but I was just being foolish, it was easy.
+- I will randomise the deck as right now it just gives the top card which is always the aceof something.
+
 ## Week 6 (2 Aug - 8 Aug)
 
 ## Week 7 (9 Aug - 15 Aug)
