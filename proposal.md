@@ -15,7 +15,7 @@
 > Having fun with friends.
 
 # Skills that my project requires me to pick up
-> Finding bugs and learning how to OOP.
+> Finding and fixing bugs and learning how to OOP.
 
 # [Development Log](/devlog.md)
 > You will be updating this section regularly
