@@ -16,6 +16,9 @@
 - I will randomise the deck as right now it just gives the top card which is always the aceof something.
 
 ## Week 6 (2 Aug - 8 Aug)
+- I wanted to randomise cards and be able to give 3 and so I did.
+- I faced some problems with time due to OBS.
+- I will create a bit of the user interface.
 
 ## Week 7 (9 Aug - 15 Aug)
 
