@@ -21,8 +21,13 @@
 - I will create a bit of the user interface.
 
 ## Week 7 (9 Aug - 15 Aug)
+- Made the player count and ability to deal the correct nuber of cards
+- I faced some problems with the usage of user inputs in my code.
+- I will create some more of the ui.
+[CEP Project.zip](https://github.com/APeXPi/2022-Y3CEP/files/9388434/CEP.Project.zip)
 
 ## Week 8 (16 Aug - 22 Aug)
+- 
 
 ## Week 9 (23 Aug - 29 Aug)
 
