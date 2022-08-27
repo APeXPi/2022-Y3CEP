@@ -24,10 +24,14 @@
 - Made the player count and ability to deal the correct nuber of cards
 - I faced some problems with the usage of user inputs in my code.
 - I will create some more of the ui.
-[CEP Project.zip](https://github.com/APeXPi/2022-Y3CEP/files/9388434/CEP.Project.zip)
 
 ## Week 8 (16 Aug - 22 Aug)
-- 
+- I have finished the user guide
+- I have sttarted on win conditions.
+- I faced some problems with understanding the win conditions and gameplay, but I think it is fine now.
+- I will finish the winning conditions and somee of the user actions next.
+[CEP Project.zip](https://github.com/APeXPi/2022-Y3CEP/files/9438106/CEP.Project.zip)
+
 
 ## Week 9 (23 Aug - 29 Aug)
 
