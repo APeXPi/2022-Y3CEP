@@ -30,10 +30,12 @@
 - I have sttarted on win conditions.
 - I faced some problems with understanding the win conditions and gameplay, but I think it is fine now.
 - I will finish the winning conditions and somee of the user actions next.
-[CEP Project.zip](https://github.com/APeXPi/2022-Y3CEP/files/9438106/CEP.Project.zip)
-
-
+- 
 ## Week 9 (23 Aug - 29 Aug)
+- I got sidetracked and did the save files instead.
+- I had trouble witht the files as I was not there during the lesson they were taught.
+- I will continue on user actions and win conditions next.
+[CEP Project.zip](https://github.com/APeXPi/2022-Y3CEP/files/9445396/CEP.Project.zip)
 
 ## Week 10 (30 Aug - 5 Sep)
 
