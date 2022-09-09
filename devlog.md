@@ -30,7 +30,7 @@
 - I have sttarted on win conditions.
 - I faced some problems with understanding the win conditions and gameplay, but I think it is fine now.
 - I will finish the winning conditions and somee of the user actions next.
-- 
+
 ## Week 9 (23 Aug - 29 Aug)
 - I got sidetracked and did the save files instead.
 - I had trouble witht the files as I was not there during the lesson they were taught.
@@ -38,5 +38,8 @@
 [CEP Project.zip](https://github.com/APeXPi/2022-Y3CEP/files/9445396/CEP.Project.zip)
 
 ## Week 10 (30 Aug - 5 Sep)
+- I started on the bot decision making and changed a few of my plans to make it more manageable.
+- I had some trouble with deciding how to include the bot's decision in the code and so had to change someof my plans.
+- I will finish the Bot decision making and user actions before making the video and submitting the project.
 
 ## Sep Holiday (5 Sep - 10 Sep) **Submission date is 10 Sep**
