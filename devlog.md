@@ -50,4 +50,5 @@
 ## Sep Holiday (5 Sep - 10 Sep) **Submission date is 10 Sep**
 - I finished up the code and started on bug fixing.
 - I had a lot of trouble with the bugs as I had no idea what to do.
-- 
+- The code is not completely done, but the video provides an example of what the completed code should look like.
+- I should have managed my time better and in future projects will definitely do so.
