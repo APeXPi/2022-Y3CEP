@@ -48,3 +48,6 @@
 [CEP Project.zip](https://github.com/APeXPi/2022-Y3CEP/files/9536595/CEP.Project.zip)
 
 ## Sep Holiday (5 Sep - 10 Sep) **Submission date is 10 Sep**
+- I finished up the code and started on bug fixing.
+- I had a lot of trouble with the bugs as I had no idea what to do.
+- 
